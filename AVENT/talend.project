@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_2iNAAGUlEeqxt6spcBhwbw" label="avent" description="" language="java" technicalLabel="AVENT" creationDate="2020-03-13T20:24:49.801+0800" author="_2iNAAWUlEeqxt6spcBhwbw" productVersion="Talend Data Fabric-7.1.1.20200302_1237-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/autumnred/avent.git&quot;,&quot;login&quot;:&quot;autumnred&quot;,&quot;passwd&quot;:&quot;OkBWlqO6JDSmN2we5Bt2SHgaDs0oPp6cz/4mlPa3FwCvpdq3U6cmf1EZY46LhMJk&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI">
+    <migrationTask xmi:id="_2qdkIGUlEeqxt6spcBhwbw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_2iNAAWUlEeqxt6spcBhwbw" login="qwei@talend.com" firstName="qwei" lastName="qwei" type="DI" additionnalData="{}"/>
+</xmi:XMI>

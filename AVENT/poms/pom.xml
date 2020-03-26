@@ -13,6 +13,7 @@
     <module>code/beans</module>
     <module>jobs/process/testesb_0.1</module>
     <module>jobs/process/testqwei_0.1</module>
+    <module>jobs/process/dd_0.1</module>
   </modules>
   <properties>
     <talend.project.name>AVENT</talend.project.name>
